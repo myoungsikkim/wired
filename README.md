@@ -1,5 +1,5 @@
 # wired
-wired groupware team project
+wired groupware team project (그룹웨어)
 
 개발환경
 springboot 2.6.1
